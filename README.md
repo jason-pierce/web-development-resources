@@ -13,6 +13,7 @@ Table of Contents
 
 | Resource | Description 
 | ---------| ----------- 
+| [Courses](courses/) | Listing of online sites that offer learning
 | [CSS](css/) | Listing of references for sites with articles, tutorials, etc
 | [JavaScript](javascript/) | Listing of references for JavaScript
 | [HTML](html/) | List of HTML/HTML5 references
