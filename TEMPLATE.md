@@ -10,10 +10,10 @@ have:
 
 ---
 
-### Mozilla Developer Network  
-*Link:* -
+#### Mozilla Developer Network  
+**Link:** -
 [https://developer.mozilla.org/en-US/](https://developer.mozilla.org/en-US/)  
-*Description:* We are an open community of developers building resources for a
+**Description:** We are an open community of developers building resources for a
 better Web, regardless of brand, browser, or platform. Anyone can contribute and
 each person who does makes us stronger. Together we can continue to drive
 innovation on the Web to serve the greater good. It starts here, with you.
