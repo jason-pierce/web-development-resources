@@ -9,7 +9,8 @@ interest.
 ---
 
 Table of Contents
+-----------------
 
-| Resource | Description |
-| ---------| ----------- |
-| CSS | Listing of references for sites with articles, tutorials, etc |
+| Resource | Description 
+| ---------| ----------- 
+| [CSS](css/README.md) | Listing of references for sites with articles, tutorials, etc
