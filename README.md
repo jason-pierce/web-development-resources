@@ -17,3 +17,7 @@ Table of Contents
 | [JavaScript](javascript/) | Listing of references for JavaScript
 | [HTML](html/) | List of HTML/HTML5 references
 | [IDE](IDE/) | Resources for different IDE's and text editors
+
+---
+
+Here is a [template](TEMPLATE.md) to use when adding a resource to a section.
