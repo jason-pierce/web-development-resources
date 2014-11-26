@@ -13,4 +13,4 @@ Table of Contents
 
 | Resource | Description 
 | ---------| ----------- 
-| [CSS](css/README.md) | Listing of references for sites with articles, tutorials, etc
+| [CSS](css/) | Listing of references for sites with articles, tutorials, etc
