@@ -19,6 +19,7 @@ Table of Contents
 | [HTML](html/) | List of HTML/HTML5 references
 | [IDE](IDE/) | Resources for different IDE's and text editors
 | [Tools](tools/) | Tools to help in development processes
+| [Workflows](workflows/) | Workflows to help you 
 
 ---
 
