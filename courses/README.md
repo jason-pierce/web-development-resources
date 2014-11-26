@@ -7,4 +7,6 @@ back-end.
 ---
 
 #### Code School
-**Link:**[codeschool.com](http://www.codeschool.com)
+**Link:** [codeschool.com](http://www.codeschool.com)
+**Description:** Code School teaches web technologies in the comfort of your
+browser with video lessons, coding challenges, and screencasts.
