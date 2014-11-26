@@ -17,6 +17,7 @@ Table of Contents
 | [JavaScript](javascript/) | Listing of references for JavaScript
 | [HTML](html/) | List of HTML/HTML5 references
 | [IDE](IDE/) | Resources for different IDE's and text editors
+| [Tools](tools/) | Tools to help in development processes
 
 ---
 
