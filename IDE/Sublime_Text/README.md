@@ -1,9 +1,9 @@
 Sublime Text 2/3
 ================
 
-* [#Plugins](Plugins)
-* [#Articles](Articles)
-* [#Tutorials](Tutorials)
+* [Plugins](#Plugins)
+* [Articles](Articles)
+* [Tutorials](Tutorials)
 
 ---
 
@@ -20,7 +20,5 @@ when using ST.
 
 | Plugin | Website |
 | ------ | ------- 
-| JavaScript Next | [https://github.com/Benvie/JavaScriptNext.tmLanguage](GitHub
-Repo)
-| Color Highlighter | [https://github.com/Monnoroch/ColorHighlighter](Githug
-Repo)
+| JavaScript Next | [https://github.com/Benvie/JavaScriptNext.tmLanguage](GitHub Repo)
+| Color Highlighter | [https://github.com/Monnoroch/ColorHighlighter](Githug Repo)
