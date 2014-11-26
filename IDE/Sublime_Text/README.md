@@ -20,5 +20,6 @@ when using ST.
 
 | Plugin | Website |
 | ------ | ------- 
-| JavaScript Next | [https://github.com/Benvie/JavaScriptNext.tmLanguage](GitHub Repo)
-| Color Highlighter | [https://github.com/Monnoroch/ColorHighlighter](Githug Repo)
+| JavaScript Next | [GitHub Repo](https://github.com/Benvie/JavaScriptNext.tmLanguage)
+Repo)
+| Color Highlighter | [GitHub Repo](https://github.com/Monnoroch/ColorHighlighter)
