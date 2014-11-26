@@ -14,5 +14,6 @@ Table of Contents
 | Resource | Description 
 | ---------| ----------- 
 | [CSS](css/) | Listing of references for sites with articles, tutorials, etc
-| [JavaScript](javascript) | Listing of references for JavaScript - no
-frameworks or libraries
+| [JavaScript](javascript/) | Listing of references for JavaScript
+| [HTML](html/) | List of HTML/HTML5 references
+| [IDE](IDE/) | Resources for different IDE's and text editors
